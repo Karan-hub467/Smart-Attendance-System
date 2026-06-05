@@ -1,26 +1,30 @@
-# \# Smart Attendance System
+#### \# Smart Attendance System
 
-# 
+#### 
 
-# A Django-based Smart Attendance System.
+#### \## About
 
-# 
+#### A Django-based Smart Attendance System for managing student attendance digitally.
 
-# \## Features
+#### 
 
-# \- Student attendance tracking
+#### \## Features
 
-# \- Admin dashboard
+#### \- Student attendance tracking
 
-# \- Reports generation
+#### \- Admin dashboard
 
-# 
+#### \- Reports generation
 
-# \## Tech Stack
+#### \- Easy management system
 
-# \- Django
+#### 
 
-# \- SQLite
+#### \## Tech Stack
 
-# \- HTML, CSS, Bootstrap
+#### \- Django
+
+#### \- SQLite
+
+#### \- HTML, CSS, Bootstrap
 
