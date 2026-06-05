@@ -1,0 +1,88 @@
+2026-06-05 04:57:46 | INFO     | package: mysql.connector.plugins
+2026-06-05 04:57:46 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 04:57:46 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 04:57:46 | ERROR    | Database connection failed: 1049 (42000): Unknown database 'attendance_system'
+2026-06-05 04:57:57 | INFO     | package: mysql.connector.plugins
+2026-06-05 04:57:57 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 04:57:57 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 04:57:57 | INFO     | Database 'attendance_system' does not exist, creating...
+2026-06-05 04:57:58 | INFO     | Database 'attendance_system' created
+2026-06-05 04:57:58 | INFO     | Database connection established to attendance_system
+2026-06-05 04:57:58 | INFO     | Database schema initialized successfully
+2026-06-05 04:57:58 | INFO     | Database connection closed
+2026-06-05 04:58:17 | INFO     | package: mysql.connector.plugins
+2026-06-05 04:58:17 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 04:58:17 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 04:58:17 | INFO     | Database connection established to attendance_system
+2026-06-05 04:58:17 | INFO     | Database connection closed
+2026-06-05 04:58:17 | ERROR    | No faces found for training
+2026-06-05 04:58:32 | INFO     | package: mysql.connector.plugins
+2026-06-05 04:58:32 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 04:58:32 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 04:58:32 | INFO     | Database connection established to attendance_system
+2026-06-05 04:58:32 | INFO     | Database schema initialized successfully
+2026-06-05 04:58:32 | INFO     | Database connection closed
+2026-06-05 04:58:33 | INFO     | package: mysql.connector.plugins
+2026-06-05 04:58:33 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 04:58:33 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 04:58:33 | INFO     | Database connection established to attendance_system
+2026-06-05 04:58:33 | INFO     | Database connection closed
+2026-06-05 05:00:44 | INFO     | package: mysql.connector.plugins
+2026-06-05 05:00:44 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 05:00:44 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 05:00:44 | INFO     | Database connection established to attendance_system
+2026-06-05 05:00:44 | INFO     | User registered: Test_User (ID: 1)
+2026-06-05 05:00:44 | INFO     | Database connection closed
+2026-06-05 05:00:48 | INFO     | Model trained on 21 faces across 1 person(s)
+2026-06-05 05:00:58 | INFO     | Model trained on 21 faces across 1 person(s)
+2026-06-05 05:01:08 | INFO     | package: mysql.connector.plugins
+2026-06-05 05:01:08 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 05:01:08 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 05:01:08 | INFO     | Database connection established to attendance_system
+2026-06-05 05:01:08 | INFO     | Model loaded from C:\Users\Administrator\Desktop\Project\smart-attendance\known_faces\model.yml
+2026-06-05 05:01:08 | INFO     | Database connection closed
+2026-06-05 05:01:33 | INFO     | package: mysql.connector.plugins
+2026-06-05 05:01:33 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 05:01:33 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 05:01:33 | INFO     | Database connection established to attendance_system
+2026-06-05 05:01:33 | INFO     | Model loaded from C:\Users\Administrator\Desktop\Project\smart-attendance\known_faces\model.yml
+2026-06-05 05:01:33 | INFO     | Attendance recorded: user_id=1, status=present, confidence=100.0
+2026-06-05 05:01:33 | INFO     | Database connection closed
+2026-06-05 05:01:38 | INFO     | package: mysql.connector.plugins
+2026-06-05 05:01:38 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 05:01:38 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 05:01:38 | INFO     | Database connection established to attendance_system
+2026-06-05 05:01:38 | INFO     | Database connection closed
+2026-06-05 05:04:09 | INFO     | Capturing 20 photos for 'Karan Kumar'. Press SPACE to capture, ESC to quit.
+2026-06-05 05:04:42 | INFO     | Captured C:\Users\Administrator\Desktop\Project\smart-attendance\known_faces\Karan Kumar\Karan Kumar_000.jpg
+2026-06-05 05:04:49 | INFO     | Captured C:\Users\Administrator\Desktop\Project\smart-attendance\known_faces\Karan Kumar\Karan Kumar_001.jpg
+2026-06-05 05:04:53 | INFO     | Captured 2 photos for 'Karan Kumar'
+2026-06-05 05:04:53 | INFO     | package: mysql.connector.plugins
+2026-06-05 05:04:53 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 05:04:53 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 05:04:53 | INFO     | Database connection established to attendance_system
+2026-06-05 05:04:53 | INFO     | User registered: Karan Kumar (ID: 2)
+2026-06-05 05:04:53 | INFO     | Database connection closed
+2026-06-05 05:05:32 | INFO     | Model trained on 22 faces across 2 person(s)
+2026-06-05 05:06:30 | INFO     | package: mysql.connector.plugins
+2026-06-05 05:06:30 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 05:06:30 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 05:06:30 | INFO     | Database connection established to attendance_system
+2026-06-05 05:06:30 | INFO     | Model loaded from C:\Users\Administrator\Desktop\Project\smart-attendance\known_faces\model.yml
+2026-06-05 05:06:33 | INFO     | Starting recognition. Press ESC to quit.
+2026-06-05 05:07:18 | INFO     | Recognition session ended
+2026-06-05 05:07:18 | INFO     | Database connection closed
+2026-06-05 07:01:11 | INFO     | package: mysql.connector.plugins
+2026-06-05 07:01:11 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 07:01:11 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 07:01:11 | INFO     | Database connection established to attendance_system
+2026-06-05 07:01:11 | INFO     | Database schema initialized successfully
+2026-06-05 07:01:11 | INFO     | Database connection closed
+2026-06-05 07:01:34 | INFO     | package: mysql.connector.plugins
+2026-06-05 07:01:34 | INFO     | plugin_name: caching_sha2_password
+2026-06-05 07:01:34 | INFO     | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-05 07:01:34 | INFO     | Database connection established to attendance_system
+2026-06-05 07:01:34 | INFO     | Model loaded from C:\Users\Administrator\Desktop\Project\smart-attendance\known_faces\model.yml
+2026-06-05 07:01:37 | INFO     | Starting recognition. Press ESC to quit.
+2026-06-05 07:02:33 | INFO     | Recognition session ended
+2026-06-05 07:02:33 | INFO     | Database connection closed
